@@ -1,5 +1,1 @@
-This project simulates business operations at a parking garage. The garage owner is able to track the vehicles as they enter and leave,
-with each vehicle getting a ticket to place on the dash at entrance. The ticket is used in combination with a custom date utilities API
-based on Java 8 to track and calculate time parked. The owner configures a parking fee calculator to determine the cost for the time
-parked. A GUI is used to make the experience cleaner and easier. Other functionalities include reports and vehicle tracking by license
-plate, each of which are also in the GUI.
+This project simulates business operations at a parking garage. The garage owner is able to track the vehicles as they enter and leave, with each vehicle getting a ticket to place on the dash at entrance. The ticket is used in combination with a custom date utilities API based on Java 8 to track and calculate time parked. The owner configures a parking fee calculator to determine the cost for the time parked. A GUI is used to make the experience cleaner and easier. Other functionalities include reports and vehicle tracking by license plate, each of which are also in the GUI.
